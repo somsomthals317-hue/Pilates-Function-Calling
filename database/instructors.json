@@ -1,0 +1,58 @@
+[
+  {
+    "instructor_id": "I001",
+    "name": "서다은",
+    "specialty": "1:1 개인 레슨",
+    "experience_years": 6,
+    "status": "ACTIVE"
+  },
+  {
+    "instructor_id": "I002",
+    "name": "한유림",
+    "specialty": "1:1 개인 레슨",
+    "experience_years": 11,
+    "status": "ACTIVE"
+  },
+  {
+    "instructor_id": "I003",
+    "name": "차서아",
+    "specialty": "7:1 레슨",
+    "experience_years": 11,
+    "status": "ACTIVE"
+  },
+  {
+    "instructor_id": "I004",
+    "name": "문하린",
+    "specialty": "7:1 레슨",
+    "experience_years": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "instructor_id": "I005",
+    "name": "임채아",
+    "specialty": "1:1 개인 레슨",
+    "experience_years": 8,
+    "status": "ACTIVE"
+  },
+  {
+    "instructor_id": "I006",
+    "name": "배수현",
+    "specialty": "1:1 개인 레슨",
+    "experience_years": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "instructor_id": "I007",
+    "name": "노지안",
+    "specialty": "7:1 레슨",
+    "experience_years": 10,
+    "status": "ACTIVE"
+  },
+  {
+    "instructor_id": "I008",
+    "name": "송유나",
+    "specialty": "1:1 개인 레슨",
+    "experience_years": 7,
+    "status": "ACTIVE"
+  }
+]

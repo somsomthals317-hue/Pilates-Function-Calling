@@ -1,0 +1,1061 @@
+[
+  {
+    "user_membership_id": "M001",
+    "user_id": "U001",
+    "membership_id": "P003",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-08-31",
+    "remaining_sessions": 93,
+    "status": "ACTIVE",
+    "paid_price": 1152000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 93
+    }
+  },
+  {
+    "user_membership_id": "M002",
+    "user_id": "U001",
+    "membership_id": "P004",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-10-31",
+    "remaining_sessions": 12,
+    "status": "ACTIVE",
+    "paid_price": 576000,
+    "remaining_sessions_by_type": {
+      "2:1 듀엣 레슨": 12
+    }
+  },
+  {
+    "user_membership_id": "M003",
+    "user_id": "U002",
+    "membership_id": "P003",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-08-31",
+    "remaining_sessions": 91,
+    "status": "ACTIVE",
+    "paid_price": 1152000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 91
+    }
+  },
+  {
+    "user_membership_id": "M004",
+    "user_id": "U002",
+    "membership_id": "P004",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-10-31",
+    "remaining_sessions": 12,
+    "status": "ACTIVE",
+    "paid_price": 576000,
+    "remaining_sessions_by_type": {
+      "2:1 듀엣 레슨": 12
+    }
+  },
+  {
+    "user_membership_id": "M005",
+    "user_id": "U003",
+    "membership_id": "P002",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-02-28",
+    "remaining_sessions": 42,
+    "status": "ACTIVE",
+    "paid_price": 672000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 42
+    }
+  },
+  {
+    "user_membership_id": "M006",
+    "user_id": "U003",
+    "membership_id": "P006",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 24,
+    "status": "ACTIVE",
+    "paid_price": 1056000,
+    "remaining_sessions_by_type": {
+      "2:1 듀엣 레슨": 24
+    }
+  },
+  {
+    "user_membership_id": "M007",
+    "user_id": "U004",
+    "membership_id": "P003",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-08-31",
+    "remaining_sessions": 93,
+    "status": "ACTIVE",
+    "paid_price": 1152000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 93
+    }
+  },
+  {
+    "user_membership_id": "M008",
+    "user_id": "U004",
+    "membership_id": "P004",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-10-31",
+    "remaining_sessions": 12,
+    "status": "ACTIVE",
+    "paid_price": 576000,
+    "remaining_sessions_by_type": {
+      "2:1 듀엣 레슨": 12
+    }
+  },
+  {
+    "user_membership_id": "M009",
+    "user_id": "U005",
+    "membership_id": "P001",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 28,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 28
+    }
+  },
+  {
+    "user_membership_id": "M010",
+    "user_id": "U005",
+    "membership_id": "P005",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-11-30",
+    "remaining_sessions": 17,
+    "status": "ACTIVE",
+    "paid_price": 828000,
+    "remaining_sessions_by_type": {
+      "2:1 듀엣 레슨": 17
+    }
+  },
+  {
+    "user_membership_id": "M011",
+    "user_id": "U006",
+    "membership_id": "P001",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 28,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 28
+    }
+  },
+  {
+    "user_membership_id": "M012",
+    "user_id": "U006",
+    "membership_id": "P006",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 24,
+    "status": "ACTIVE",
+    "paid_price": 1056000,
+    "remaining_sessions_by_type": {
+      "2:1 듀엣 레슨": 24
+    }
+  },
+  {
+    "user_membership_id": "M013",
+    "user_id": "U007",
+    "membership_id": "P003",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-08-31",
+    "remaining_sessions": 92,
+    "status": "ACTIVE",
+    "paid_price": 1152000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 92
+    }
+  },
+  {
+    "user_membership_id": "M014",
+    "user_id": "U007",
+    "membership_id": "P006",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 24,
+    "status": "ACTIVE",
+    "paid_price": 1056000,
+    "remaining_sessions_by_type": {
+      "2:1 듀엣 레슨": 24
+    }
+  },
+  {
+    "user_membership_id": "M015",
+    "user_id": "U008",
+    "membership_id": "P003",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-08-31",
+    "remaining_sessions": 94,
+    "status": "ACTIVE",
+    "paid_price": 1152000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 94
+    }
+  },
+  {
+    "user_membership_id": "M016",
+    "user_id": "U008",
+    "membership_id": "P004",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-10-31",
+    "remaining_sessions": 12,
+    "status": "ACTIVE",
+    "paid_price": 576000,
+    "remaining_sessions_by_type": {
+      "2:1 듀엣 레슨": 12
+    }
+  },
+  {
+    "user_membership_id": "M017",
+    "user_id": "U009",
+    "membership_id": "P003",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-08-31",
+    "remaining_sessions": 93,
+    "status": "ACTIVE",
+    "paid_price": 1152000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 93
+    }
+  },
+  {
+    "user_membership_id": "M018",
+    "user_id": "U009",
+    "membership_id": "P005",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-11-30",
+    "remaining_sessions": 17,
+    "status": "ACTIVE",
+    "paid_price": 828000,
+    "remaining_sessions_by_type": {
+      "2:1 듀엣 레슨": 17
+    }
+  },
+  {
+    "user_membership_id": "M019",
+    "user_id": "U010",
+    "membership_id": "P001",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 25,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 25
+    }
+  },
+  {
+    "user_membership_id": "M020",
+    "user_id": "U010",
+    "membership_id": "P006",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 24,
+    "status": "ACTIVE",
+    "paid_price": 1056000,
+    "remaining_sessions_by_type": {
+      "2:1 듀엣 레슨": 24
+    }
+  },
+  {
+    "user_membership_id": "M021",
+    "user_id": "U011",
+    "membership_id": "P002",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-02-28",
+    "remaining_sessions": 45,
+    "status": "ACTIVE",
+    "paid_price": 672000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 45
+    }
+  },
+  {
+    "user_membership_id": "M022",
+    "user_id": "U011",
+    "membership_id": "P006",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 23,
+    "status": "ACTIVE",
+    "paid_price": 1056000,
+    "remaining_sessions_by_type": {
+      "2:1 듀엣 레슨": 23
+    }
+  },
+  {
+    "user_membership_id": "M023",
+    "user_id": "U012",
+    "membership_id": "P001",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 25,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 25
+    }
+  },
+  {
+    "user_membership_id": "M024",
+    "user_id": "U012",
+    "membership_id": "P006",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 24,
+    "status": "ACTIVE",
+    "paid_price": 1056000,
+    "remaining_sessions_by_type": {
+      "2:1 듀엣 레슨": 24
+    }
+  },
+  {
+    "user_membership_id": "M025",
+    "user_id": "U013",
+    "membership_id": "P001",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 31,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 31
+    }
+  },
+  {
+    "user_membership_id": "M026",
+    "user_id": "U013",
+    "membership_id": "P006",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 23,
+    "status": "ACTIVE",
+    "paid_price": 1056000,
+    "remaining_sessions_by_type": {
+      "2:1 듀엣 레슨": 23
+    }
+  },
+  {
+    "user_membership_id": "M027",
+    "user_id": "U014",
+    "membership_id": "P001",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 29,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 29
+    }
+  },
+  {
+    "user_membership_id": "M028",
+    "user_id": "U014",
+    "membership_id": "P007",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-10-31",
+    "remaining_sessions": 6,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "1:1 개인 레슨": 6
+    }
+  },
+  {
+    "user_membership_id": "M029",
+    "user_id": "U015",
+    "membership_id": "P001",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 26,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 26
+    }
+  },
+  {
+    "user_membership_id": "M030",
+    "user_id": "U015",
+    "membership_id": "P007",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-10-31",
+    "remaining_sessions": 6,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "1:1 개인 레슨": 6
+    }
+  },
+  {
+    "user_membership_id": "M031",
+    "user_id": "U016",
+    "membership_id": "P003",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-08-31",
+    "remaining_sessions": 93,
+    "status": "ACTIVE",
+    "paid_price": 1152000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 93
+    }
+  },
+  {
+    "user_membership_id": "M032",
+    "user_id": "U016",
+    "membership_id": "P008",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-11-30",
+    "remaining_sessions": 11,
+    "status": "ACTIVE",
+    "paid_price": 900000,
+    "remaining_sessions_by_type": {
+      "1:1 개인 레슨": 11
+    }
+  },
+  {
+    "user_membership_id": "M033",
+    "user_id": "U017",
+    "membership_id": "P002",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-02-28",
+    "remaining_sessions": 40,
+    "status": "ACTIVE",
+    "paid_price": 672000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 40
+    }
+  },
+  {
+    "user_membership_id": "M034",
+    "user_id": "U017",
+    "membership_id": "P008",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-11-30",
+    "remaining_sessions": 12,
+    "status": "ACTIVE",
+    "paid_price": 900000,
+    "remaining_sessions_by_type": {
+      "1:1 개인 레슨": 12
+    }
+  },
+  {
+    "user_membership_id": "M035",
+    "user_id": "U018",
+    "membership_id": "P001",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 28,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 28
+    }
+  },
+  {
+    "user_membership_id": "M036",
+    "user_id": "U018",
+    "membership_id": "P009",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-02-28",
+    "remaining_sessions": 24,
+    "status": "ACTIVE",
+    "paid_price": 1632000,
+    "remaining_sessions_by_type": {
+      "1:1 개인 레슨": 24
+    }
+  },
+  {
+    "user_membership_id": "M037",
+    "user_id": "U019",
+    "membership_id": "P001",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 25,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 25
+    }
+  },
+  {
+    "user_membership_id": "M038",
+    "user_id": "U019",
+    "membership_id": "P007",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-10-31",
+    "remaining_sessions": 6,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "1:1 개인 레슨": 6
+    }
+  },
+  {
+    "user_membership_id": "M039",
+    "user_id": "U020",
+    "membership_id": "P003",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-08-31",
+    "remaining_sessions": 91,
+    "status": "ACTIVE",
+    "paid_price": 1152000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 91
+    }
+  },
+  {
+    "user_membership_id": "M040",
+    "user_id": "U020",
+    "membership_id": "P008",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-11-30",
+    "remaining_sessions": 11,
+    "status": "ACTIVE",
+    "paid_price": 900000,
+    "remaining_sessions_by_type": {
+      "1:1 개인 레슨": 11
+    }
+  },
+  {
+    "user_membership_id": "M041",
+    "user_id": "U021",
+    "membership_id": "P003",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-08-31",
+    "remaining_sessions": 90,
+    "status": "ACTIVE",
+    "paid_price": 1152000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 90
+    }
+  },
+  {
+    "user_membership_id": "M042",
+    "user_id": "U021",
+    "membership_id": "P009",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-02-28",
+    "remaining_sessions": 21,
+    "status": "ACTIVE",
+    "paid_price": 1632000,
+    "remaining_sessions_by_type": {
+      "1:1 개인 레슨": 21
+    }
+  },
+  {
+    "user_membership_id": "M043",
+    "user_id": "U022",
+    "membership_id": "P001",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 25,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 25
+    }
+  },
+  {
+    "user_membership_id": "M044",
+    "user_id": "U022",
+    "membership_id": "P009",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-02-28",
+    "remaining_sessions": 23,
+    "status": "ACTIVE",
+    "paid_price": 1632000,
+    "remaining_sessions_by_type": {
+      "1:1 개인 레슨": 23
+    }
+  },
+  {
+    "user_membership_id": "M045",
+    "user_id": "U023",
+    "membership_id": "P001",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 24,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 24
+    }
+  },
+  {
+    "user_membership_id": "M046",
+    "user_id": "U023",
+    "membership_id": "P009",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-02-28",
+    "remaining_sessions": 24,
+    "status": "ACTIVE",
+    "paid_price": 1632000,
+    "remaining_sessions_by_type": {
+      "1:1 개인 레슨": 24
+    }
+  },
+  {
+    "user_membership_id": "M047",
+    "user_id": "U024",
+    "membership_id": "P001",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 30,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 30
+    }
+  },
+  {
+    "user_membership_id": "M048",
+    "user_id": "U024",
+    "membership_id": "P008",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-11-30",
+    "remaining_sessions": 12,
+    "status": "ACTIVE",
+    "paid_price": 900000,
+    "remaining_sessions_by_type": {
+      "1:1 개인 레슨": 12
+    }
+  },
+  {
+    "user_membership_id": "M049",
+    "user_id": "U025",
+    "membership_id": "P003",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-08-31",
+    "remaining_sessions": 90,
+    "status": "ACTIVE",
+    "paid_price": 1152000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 90
+    }
+  },
+  {
+    "user_membership_id": "M050",
+    "user_id": "U025",
+    "membership_id": "P009",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-02-28",
+    "remaining_sessions": 23,
+    "status": "ACTIVE",
+    "paid_price": 1632000,
+    "remaining_sessions_by_type": {
+      "1:1 개인 레슨": 23
+    }
+  },
+  {
+    "user_membership_id": "M051",
+    "user_id": "U026",
+    "membership_id": "P003",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-08-31",
+    "remaining_sessions": 93,
+    "status": "ACTIVE",
+    "paid_price": 1152000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 93
+    }
+  },
+  {
+    "user_membership_id": "M052",
+    "user_id": "U027",
+    "membership_id": "P002",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-02-28",
+    "remaining_sessions": 46,
+    "status": "ACTIVE",
+    "paid_price": 672000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 46
+    }
+  },
+  {
+    "user_membership_id": "M053",
+    "user_id": "U028",
+    "membership_id": "P002",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-02-28",
+    "remaining_sessions": 39,
+    "status": "ACTIVE",
+    "paid_price": 672000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 39
+    }
+  },
+  {
+    "user_membership_id": "M054",
+    "user_id": "U029",
+    "membership_id": "P003",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-08-31",
+    "remaining_sessions": 92,
+    "status": "ACTIVE",
+    "paid_price": 1152000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 92
+    }
+  },
+  {
+    "user_membership_id": "M055",
+    "user_id": "U030",
+    "membership_id": "P002",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-02-28",
+    "remaining_sessions": 39,
+    "status": "ACTIVE",
+    "paid_price": 672000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 39
+    }
+  },
+  {
+    "user_membership_id": "M056",
+    "user_id": "U031",
+    "membership_id": "P002",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-02-28",
+    "remaining_sessions": 45,
+    "status": "ACTIVE",
+    "paid_price": 672000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 45
+    }
+  },
+  {
+    "user_membership_id": "M057",
+    "user_id": "U032",
+    "membership_id": "P003",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-08-31",
+    "remaining_sessions": 91,
+    "status": "ACTIVE",
+    "paid_price": 1152000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 91
+    }
+  },
+  {
+    "user_membership_id": "M058",
+    "user_id": "U033",
+    "membership_id": "P001",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 26,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 26
+    }
+  },
+  {
+    "user_membership_id": "M059",
+    "user_id": "U034",
+    "membership_id": "P001",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 28,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 28
+    }
+  },
+  {
+    "user_membership_id": "M060",
+    "user_id": "U035",
+    "membership_id": "P002",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-02-28",
+    "remaining_sessions": 36,
+    "status": "ACTIVE",
+    "paid_price": 672000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 36
+    }
+  },
+  {
+    "user_membership_id": "M061",
+    "user_id": "U036",
+    "membership_id": "P001",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 28,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 28
+    }
+  },
+  {
+    "user_membership_id": "M062",
+    "user_id": "U037",
+    "membership_id": "P003",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-08-31",
+    "remaining_sessions": 90,
+    "status": "ACTIVE",
+    "paid_price": 1152000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 90
+    }
+  },
+  {
+    "user_membership_id": "M063",
+    "user_id": "U038",
+    "membership_id": "P002",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-02-28",
+    "remaining_sessions": 41,
+    "status": "ACTIVE",
+    "paid_price": 672000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 41
+    }
+  },
+  {
+    "user_membership_id": "M064",
+    "user_id": "U039",
+    "membership_id": "P002",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-02-28",
+    "remaining_sessions": 46,
+    "status": "ACTIVE",
+    "paid_price": 672000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 46
+    }
+  },
+  {
+    "user_membership_id": "M065",
+    "user_id": "U040",
+    "membership_id": "P003",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-08-31",
+    "remaining_sessions": 88,
+    "status": "ACTIVE",
+    "paid_price": 1152000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 88
+    }
+  },
+  {
+    "user_membership_id": "M066",
+    "user_id": "U041",
+    "membership_id": "P003",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-08-31",
+    "remaining_sessions": 93,
+    "status": "ACTIVE",
+    "paid_price": 1152000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 93
+    }
+  },
+  {
+    "user_membership_id": "M067",
+    "user_id": "U042",
+    "membership_id": "P001",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 27,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 27
+    }
+  },
+  {
+    "user_membership_id": "M068",
+    "user_id": "U043",
+    "membership_id": "P001",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 27,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 27
+    }
+  },
+  {
+    "user_membership_id": "M069",
+    "user_id": "U044",
+    "membership_id": "P001",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 27,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 27
+    }
+  },
+  {
+    "user_membership_id": "M070",
+    "user_id": "U045",
+    "membership_id": "P001",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 24,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 24
+    }
+  },
+  {
+    "user_membership_id": "M071",
+    "user_id": "U046",
+    "membership_id": "P001",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 23,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 23
+    }
+  },
+  {
+    "user_membership_id": "M072",
+    "user_id": "U047",
+    "membership_id": "P003",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-08-31",
+    "remaining_sessions": 91,
+    "status": "ACTIVE",
+    "paid_price": 1152000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 91
+    }
+  },
+  {
+    "user_membership_id": "M073",
+    "user_id": "U048",
+    "membership_id": "P003",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-08-31",
+    "remaining_sessions": 91,
+    "status": "ACTIVE",
+    "paid_price": 1152000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 91
+    }
+  },
+  {
+    "user_membership_id": "M074",
+    "user_id": "U049",
+    "membership_id": "P003",
+    "start_date": "2026-09-01",
+    "expires_at": "2027-08-31",
+    "remaining_sessions": 89,
+    "status": "ACTIVE",
+    "paid_price": 1152000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 89
+    }
+  },
+  {
+    "user_membership_id": "M075",
+    "user_id": "U050",
+    "membership_id": "P001",
+    "start_date": "2026-09-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 28,
+    "status": "ACTIVE",
+    "paid_price": 480000,
+    "remaining_sessions_by_type": {
+      "7:1 레슨": 28
+    }
+  },
+  {
+    "user_membership_id": "M076",
+    "user_id": "U031",
+    "membership_id": "P012",
+    "start_date": "2026-10-01",
+    "expires_at": "2027-01-31",
+    "remaining_sessions": 37,
+    "remaining_sessions_by_type": {
+      "1:1 개인 레슨": 5,
+      "7:1 레슨": 32
+    },
+    "paid_price": 880000,
+    "status": "ACTIVE"
+  },
+  {
+    "user_membership_id": "M077",
+    "user_id": "U032",
+    "membership_id": "P013",
+    "start_date": "2026-10-01",
+    "expires_at": "2027-03-31",
+    "remaining_sessions": 59,
+    "remaining_sessions_by_type": {
+      "1:1 개인 레슨": 12,
+      "7:1 레슨": 47
+    },
+    "paid_price": 1480000,
+    "status": "ACTIVE"
+  },
+  {
+    "user_membership_id": "M078",
+    "user_id": "U033",
+    "membership_id": "P014",
+    "start_date": "2026-10-01",
+    "expires_at": "2027-03-31",
+    "remaining_sessions": 54,
+    "remaining_sessions_by_type": {
+      "1:1 개인 레슨": 6,
+      "7:1 레슨": 48
+    },
+    "paid_price": 1070000,
+    "status": "ACTIVE"
+  },
+  {
+    "user_membership_id": "M079",
+    "user_id": "U034",
+    "membership_id": "P015",
+    "start_date": "2026-10-01",
+    "expires_at": "2027-01-31",
+    "remaining_sessions": 37,
+    "remaining_sessions_by_type": {
+      "2:1 듀엣 레슨": 5,
+      "7:1 레슨": 32
+    },
+    "paid_price": 730000,
+    "status": "ACTIVE"
+  },
+  {
+    "user_membership_id": "M080",
+    "user_id": "U035",
+    "membership_id": "P016",
+    "start_date": "2026-10-01",
+    "expires_at": "2027-03-31",
+    "remaining_sessions": 60,
+    "remaining_sessions_by_type": {
+      "2:1 듀엣 레슨": 12,
+      "7:1 레슨": 48
+    },
+    "paid_price": 1150000,
+    "status": "ACTIVE"
+  },
+  {
+    "user_membership_id": "M081",
+    "user_id": "U036",
+    "membership_id": "P017",
+    "start_date": "2026-10-01",
+    "expires_at": "2026-12-31",
+    "remaining_sessions": 12,
+    "remaining_sessions_by_type": {
+      "1:1 개인 레슨": 6,
+      "2:1 듀엣 레슨": 6
+    },
+    "paid_price": 730000,
+    "status": "ACTIVE"
+  }
+]

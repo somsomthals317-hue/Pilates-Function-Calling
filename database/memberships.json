@@ -1,0 +1,361 @@
+[
+  {
+    "membership_id": "P001",
+    "membership_name": "7:1 그룹 32회권",
+    "product_type": "SINGLE",
+    "lesson_type": "7:1 레슨",
+    "duration_months": 4,
+    "total_sessions": 32,
+    "sessions_per_month": 8,
+    "capacity": 7,
+    "price": 480000,
+    "price_per_session": 15000,
+    "components": [
+      {
+        "lesson_type": "7:1 레슨",
+        "sessions": 32
+      }
+    ],
+    "status": "ACTIVE"
+  },
+  {
+    "membership_id": "P002",
+    "membership_name": "7:1 그룹 48회권",
+    "product_type": "SINGLE",
+    "lesson_type": "7:1 레슨",
+    "duration_months": 6,
+    "total_sessions": 48,
+    "sessions_per_month": 8,
+    "capacity": 7,
+    "price": 672000,
+    "price_per_session": 14000,
+    "components": [
+      {
+        "lesson_type": "7:1 레슨",
+        "sessions": 48
+      }
+    ],
+    "status": "ACTIVE"
+  },
+  {
+    "membership_id": "P003",
+    "membership_name": "7:1 그룹 96회권",
+    "product_type": "SINGLE",
+    "lesson_type": "7:1 레슨",
+    "duration_months": 12,
+    "total_sessions": 96,
+    "sessions_per_month": 8,
+    "capacity": 7,
+    "price": 1152000,
+    "price_per_session": 12000,
+    "components": [
+      {
+        "lesson_type": "7:1 레슨",
+        "sessions": 96
+      }
+    ],
+    "status": "ACTIVE"
+  },
+  {
+    "membership_id": "P010",
+    "membership_name": "2:1 듀엣 6회권",
+    "product_type": "SINGLE",
+    "lesson_type": "2:1 듀엣 레슨",
+    "duration_months": 1,
+    "total_sessions": 6,
+    "sessions_per_month": 6,
+    "capacity": 2,
+    "price": 300000,
+    "price_per_session": 50000,
+    "components": [
+      {
+        "lesson_type": "2:1 듀엣 레슨",
+        "sessions": 6
+      }
+    ],
+    "status": "ACTIVE"
+  },
+  {
+    "membership_id": "P004",
+    "membership_name": "2:1 듀엣 12회권",
+    "product_type": "SINGLE",
+    "lesson_type": "2:1 듀엣 레슨",
+    "duration_months": 2,
+    "total_sessions": 12,
+    "sessions_per_month": 6,
+    "capacity": 2,
+    "price": 576000,
+    "price_per_session": 48000,
+    "components": [
+      {
+        "lesson_type": "2:1 듀엣 레슨",
+        "sessions": 12
+      }
+    ],
+    "status": "ACTIVE"
+  },
+  {
+    "membership_id": "P005",
+    "membership_name": "2:1 듀엣 18회권",
+    "product_type": "SINGLE",
+    "lesson_type": "2:1 듀엣 레슨",
+    "duration_months": 3,
+    "total_sessions": 18,
+    "sessions_per_month": 6,
+    "capacity": 2,
+    "price": 828000,
+    "price_per_session": 46000,
+    "components": [
+      {
+        "lesson_type": "2:1 듀엣 레슨",
+        "sessions": 18
+      }
+    ],
+    "status": "ACTIVE"
+  },
+  {
+    "membership_id": "P006",
+    "membership_name": "2:1 듀엣 24회권",
+    "product_type": "SINGLE",
+    "lesson_type": "2:1 듀엣 레슨",
+    "duration_months": 4,
+    "total_sessions": 24,
+    "sessions_per_month": 6,
+    "capacity": 2,
+    "price": 1056000,
+    "price_per_session": 44000,
+    "components": [
+      {
+        "lesson_type": "2:1 듀엣 레슨",
+        "sessions": 24
+      }
+    ],
+    "status": "ACTIVE"
+  },
+  {
+    "membership_id": "P007",
+    "membership_name": "1:1 개인 6회권",
+    "product_type": "SINGLE",
+    "lesson_type": "1:1 개인 레슨",
+    "duration_months": 2,
+    "total_sessions": 6,
+    "sessions_per_month": null,
+    "capacity": 1,
+    "price": 480000,
+    "price_per_session": 80000,
+    "components": [
+      {
+        "lesson_type": "1:1 개인 레슨",
+        "sessions": 6
+      }
+    ],
+    "status": "ACTIVE"
+  },
+  {
+    "membership_id": "P008",
+    "membership_name": "1:1 개인 12회권",
+    "product_type": "SINGLE",
+    "lesson_type": "1:1 개인 레슨",
+    "duration_months": 3,
+    "total_sessions": 12,
+    "sessions_per_month": null,
+    "capacity": 1,
+    "price": 900000,
+    "price_per_session": 75000,
+    "components": [
+      {
+        "lesson_type": "1:1 개인 레슨",
+        "sessions": 12
+      }
+    ],
+    "status": "ACTIVE"
+  },
+  {
+    "membership_id": "P011",
+    "membership_name": "1:1 개인 18회권",
+    "product_type": "SINGLE",
+    "lesson_type": "1:1 개인 레슨",
+    "duration_months": 5,
+    "total_sessions": 18,
+    "sessions_per_month": null,
+    "capacity": 1,
+    "price": 1296000,
+    "price_per_session": 72000,
+    "components": [
+      {
+        "lesson_type": "1:1 개인 레슨",
+        "sessions": 18
+      }
+    ],
+    "status": "ACTIVE"
+  },
+  {
+    "membership_id": "P009",
+    "membership_name": "1:1 개인 24회권",
+    "product_type": "SINGLE",
+    "lesson_type": "1:1 개인 레슨",
+    "duration_months": 6,
+    "total_sessions": 24,
+    "sessions_per_month": null,
+    "capacity": 1,
+    "price": 1632000,
+    "price_per_session": 68000,
+    "components": [
+      {
+        "lesson_type": "1:1 개인 레슨",
+        "sessions": 24
+      }
+    ],
+    "status": "ACTIVE"
+  },
+  {
+    "membership_id": "P012",
+    "membership_name": "1:1 개인 6회 + 7:1 그룹 32회",
+    "product_type": "COMBO",
+    "lesson_type": "COMBO",
+    "duration_months": 4,
+    "total_sessions": 38,
+    "sessions_per_month": null,
+    "capacity": null,
+    "price": 880000,
+    "price_per_session": null,
+    "original_price": 960000,
+    "bundle_discount": 80000,
+    "components": [
+      {
+        "lesson_type": "1:1 개인 레슨",
+        "sessions": 6
+      },
+      {
+        "lesson_type": "7:1 레슨",
+        "sessions": 32
+      }
+    ],
+    "status": "ACTIVE"
+  },
+  {
+    "membership_id": "P013",
+    "membership_name": "1:1 개인 12회 + 7:1 그룹 48회",
+    "product_type": "COMBO",
+    "lesson_type": "COMBO",
+    "duration_months": 6,
+    "total_sessions": 60,
+    "sessions_per_month": null,
+    "capacity": null,
+    "price": 1480000,
+    "price_per_session": null,
+    "original_price": 1572000,
+    "bundle_discount": 92000,
+    "components": [
+      {
+        "lesson_type": "1:1 개인 레슨",
+        "sessions": 12
+      },
+      {
+        "lesson_type": "7:1 레슨",
+        "sessions": 48
+      }
+    ],
+    "status": "ACTIVE"
+  },
+  {
+    "membership_id": "P014",
+    "membership_name": "1:1 개인 6회 + 7:1 그룹 48회",
+    "product_type": "COMBO",
+    "lesson_type": "COMBO",
+    "duration_months": 6,
+    "total_sessions": 54,
+    "sessions_per_month": null,
+    "capacity": null,
+    "price": 1070000,
+    "price_per_session": null,
+    "original_price": 1152000,
+    "bundle_discount": 82000,
+    "components": [
+      {
+        "lesson_type": "1:1 개인 레슨",
+        "sessions": 6
+      },
+      {
+        "lesson_type": "7:1 레슨",
+        "sessions": 48
+      }
+    ],
+    "status": "ACTIVE"
+  },
+  {
+    "membership_id": "P015",
+    "membership_name": "2:1 듀엣 6회 + 7:1 그룹 32회",
+    "product_type": "COMBO",
+    "lesson_type": "COMBO",
+    "duration_months": 4,
+    "total_sessions": 38,
+    "sessions_per_month": null,
+    "capacity": null,
+    "price": 730000,
+    "price_per_session": null,
+    "original_price": 780000,
+    "bundle_discount": 50000,
+    "components": [
+      {
+        "lesson_type": "2:1 듀엣 레슨",
+        "sessions": 6
+      },
+      {
+        "lesson_type": "7:1 레슨",
+        "sessions": 32
+      }
+    ],
+    "status": "ACTIVE"
+  },
+  {
+    "membership_id": "P016",
+    "membership_name": "2:1 듀엣 12회 + 7:1 그룹 48회",
+    "product_type": "COMBO",
+    "lesson_type": "COMBO",
+    "duration_months": 6,
+    "total_sessions": 60,
+    "sessions_per_month": null,
+    "capacity": null,
+    "price": 1150000,
+    "price_per_session": null,
+    "original_price": 1248000,
+    "bundle_discount": 98000,
+    "components": [
+      {
+        "lesson_type": "2:1 듀엣 레슨",
+        "sessions": 12
+      },
+      {
+        "lesson_type": "7:1 레슨",
+        "sessions": 48
+      }
+    ],
+    "status": "ACTIVE"
+  },
+  {
+    "membership_id": "P017",
+    "membership_name": "1:1 개인 6회 + 2:1 듀엣 6회",
+    "product_type": "COMBO",
+    "lesson_type": "COMBO",
+    "duration_months": 3,
+    "total_sessions": 12,
+    "sessions_per_month": null,
+    "capacity": null,
+    "price": 730000,
+    "price_per_session": null,
+    "original_price": 780000,
+    "bundle_discount": 50000,
+    "components": [
+      {
+        "lesson_type": "1:1 개인 레슨",
+        "sessions": 6
+      },
+      {
+        "lesson_type": "2:1 듀엣 레슨",
+        "sessions": 6
+      }
+    ],
+    "status": "ACTIVE"
+  }
+]

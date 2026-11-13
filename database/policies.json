@@ -1,0 +1,92 @@
+[
+  {
+    "policy_id": "P001",
+    "keyword": "예약",
+    "content": "수업 예약은 이용권의 종류와 수업 종류가 일치해야 가능합니다.",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "policy_id": "P002",
+    "keyword": "예약",
+    "content": "예약 확정 시 해당 이용권에서 1회 차감됩니다.",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "policy_id": "P003",
+    "keyword": "예약",
+    "content": "잔여 이용권이 0회이거나 유효기간이 지난 경우 예약할 수 없습니다.",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "policy_id": "P004",
+    "keyword": "예약",
+    "content": "같은 회원은 동일 수업을 중복 예약할 수 없습니다.",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "policy_id": "P005",
+    "keyword": "예약",
+    "content": "정원이 가득 찬 수업에는 확정 예약을 할 수 없습니다.",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "policy_id": "P006",
+    "keyword": "취소",
+    "content": "수업 시작 12시간 전까지 취소하면 이용권 1회가 복구됩니다.",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "policy_id": "P007",
+    "keyword": "취소",
+    "content": "수업 시작 12시간 미만에 취소하면 이용권이 복구되지 않습니다.",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "policy_id": "P008",
+    "keyword": "취소",
+    "content": "이미 종료된 수업은 직접 취소할 수 없습니다.",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "policy_id": "P009",
+    "keyword": "대기",
+    "content": "정원 마감된 수업은 대기 신청이 가능합니다.",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "policy_id": "P010",
+    "keyword": "대기",
+    "content": "대기 중에는 이용권을 차감하지 않습니다.",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "policy_id": "P011",
+    "keyword": "대기",
+    "content": "대기 신청은 동일 수업에 한 번만 할 수 있습니다.",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "policy_id": "P012",
+    "keyword": "출석",
+    "content": "입장 기록은 수업에 실제 출석한 회원에게만 생성합니다.",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "policy_id": "P013",
+    "keyword": "환불",
+    "content": "이용권 중도 환불은 센터 상담을 통해 산정하며, 시스템에서 자동 결제 취소를 진행하지 않습니다.",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "policy_id": "P014",
+    "keyword": "환불",
+    "content": "이용권 환불 요청 시 이용권의 구매 조건과 사용 횟수를 먼저 확인해야 합니다.",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "policy_id": "P015",
+    "keyword": "운영",
+    "content": "운영시간은 평일 08:00~21:50이며 13:00~14:00에는 점심시간으로 수업이 없습니다.",
+    "effective_date": "2026-01-01"
+  }
+]

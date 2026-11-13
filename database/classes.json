@@ -1,0 +1,1002 @@
+[
+  {
+    "class_id": "CL043",
+    "day_of_week": "월요일",
+    "start_time": "08:00",
+    "end_time": "08:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I001",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL077",
+    "day_of_week": "월요일",
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I005",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL016",
+    "day_of_week": "월요일",
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I002",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL010",
+    "day_of_week": "월요일",
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "lesson_type": "1:1 개인 레슨",
+    "instructor_id": "I001",
+    "capacity": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL023",
+    "day_of_week": "월요일",
+    "start_time": "12:00",
+    "end_time": "12:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I002",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL075",
+    "day_of_week": "월요일",
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "lesson_type": "1:1 개인 레슨",
+    "instructor_id": "I003",
+    "capacity": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL083",
+    "day_of_week": "월요일",
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I006",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL001",
+    "day_of_week": "월요일",
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I002",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL054",
+    "day_of_week": "월요일",
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "lesson_type": "2:1 듀엣 레슨",
+    "instructor_id": "I003",
+    "capacity": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL031",
+    "day_of_week": "월요일",
+    "start_time": "16:00",
+    "end_time": "16:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I006",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL004",
+    "day_of_week": "월요일",
+    "start_time": "17:00",
+    "end_time": "17:50",
+    "lesson_type": "2:1 듀엣 레슨",
+    "instructor_id": "I003",
+    "capacity": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL051",
+    "day_of_week": "월요일",
+    "start_time": "17:00",
+    "end_time": "17:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I007",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL072",
+    "day_of_week": "월요일",
+    "start_time": "18:00",
+    "end_time": "18:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I001",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL035",
+    "day_of_week": "월요일",
+    "start_time": "18:00",
+    "end_time": "18:50",
+    "lesson_type": "1:1 개인 레슨",
+    "instructor_id": "I002",
+    "capacity": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL044",
+    "day_of_week": "월요일",
+    "start_time": "19:00",
+    "end_time": "19:50",
+    "lesson_type": "2:1 듀엣 레슨",
+    "instructor_id": "I003",
+    "capacity": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL032",
+    "day_of_week": "월요일",
+    "start_time": "20:00",
+    "end_time": "20:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I005",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL017",
+    "day_of_week": "월요일",
+    "start_time": "20:00",
+    "end_time": "20:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I006",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL021",
+    "day_of_week": "월요일",
+    "start_time": "21:00",
+    "end_time": "21:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I005",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL096",
+    "day_of_week": "월요일",
+    "start_time": "21:00",
+    "end_time": "21:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I007",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL093",
+    "day_of_week": "화요일",
+    "start_time": "08:00",
+    "end_time": "08:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I007",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL034",
+    "day_of_week": "화요일",
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "lesson_type": "2:1 듀엣 레슨",
+    "instructor_id": "I002",
+    "capacity": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL041",
+    "day_of_week": "화요일",
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I006",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL097",
+    "day_of_week": "화요일",
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I006",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL026",
+    "day_of_week": "화요일",
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I008",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL013",
+    "day_of_week": "화요일",
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I004",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL087",
+    "day_of_week": "화요일",
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I008",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL081",
+    "day_of_week": "화요일",
+    "start_time": "12:00",
+    "end_time": "12:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I002",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL086",
+    "day_of_week": "화요일",
+    "start_time": "12:00",
+    "end_time": "12:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I008",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL003",
+    "day_of_week": "화요일",
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I004",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL045",
+    "day_of_week": "화요일",
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "lesson_type": "1:1 개인 레슨",
+    "instructor_id": "I006",
+    "capacity": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL014",
+    "day_of_week": "화요일",
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "lesson_type": "2:1 듀엣 레슨",
+    "instructor_id": "I004",
+    "capacity": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL059",
+    "day_of_week": "화요일",
+    "start_time": "16:00",
+    "end_time": "16:50",
+    "lesson_type": "2:1 듀엣 레슨",
+    "instructor_id": "I006",
+    "capacity": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL058",
+    "day_of_week": "화요일",
+    "start_time": "16:00",
+    "end_time": "16:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I008",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL065",
+    "day_of_week": "화요일",
+    "start_time": "17:00",
+    "end_time": "17:50",
+    "lesson_type": "1:1 개인 레슨",
+    "instructor_id": "I003",
+    "capacity": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL005",
+    "day_of_week": "화요일",
+    "start_time": "18:00",
+    "end_time": "18:50",
+    "lesson_type": "1:1 개인 레슨",
+    "instructor_id": "I007",
+    "capacity": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL057",
+    "day_of_week": "화요일",
+    "start_time": "18:00",
+    "end_time": "18:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I008",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL095",
+    "day_of_week": "화요일",
+    "start_time": "19:00",
+    "end_time": "19:50",
+    "lesson_type": "1:1 개인 레슨",
+    "instructor_id": "I003",
+    "capacity": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL076",
+    "day_of_week": "화요일",
+    "start_time": "19:00",
+    "end_time": "19:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I007",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL015",
+    "day_of_week": "화요일",
+    "start_time": "20:00",
+    "end_time": "20:50",
+    "lesson_type": "1:1 개인 레슨",
+    "instructor_id": "I001",
+    "capacity": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL100",
+    "day_of_week": "화요일",
+    "start_time": "21:00",
+    "end_time": "21:50",
+    "lesson_type": "1:1 개인 레슨",
+    "instructor_id": "I001",
+    "capacity": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL050",
+    "day_of_week": "화요일",
+    "start_time": "21:00",
+    "end_time": "21:50",
+    "lesson_type": "1:1 개인 레슨",
+    "instructor_id": "I007",
+    "capacity": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL024",
+    "day_of_week": "수요일",
+    "start_time": "08:00",
+    "end_time": "08:50",
+    "lesson_type": "2:1 듀엣 레슨",
+    "instructor_id": "I004",
+    "capacity": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL092",
+    "day_of_week": "수요일",
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I002",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL019",
+    "day_of_week": "수요일",
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "lesson_type": "2:1 듀엣 레슨",
+    "instructor_id": "I004",
+    "capacity": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL056",
+    "day_of_week": "수요일",
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I005",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL099",
+    "day_of_week": "수요일",
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "lesson_type": "2:1 듀엣 레슨",
+    "instructor_id": "I007",
+    "capacity": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL008",
+    "day_of_week": "수요일",
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I002",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL085",
+    "day_of_week": "수요일",
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "lesson_type": "1:1 개인 레슨",
+    "instructor_id": "I008",
+    "capacity": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL055",
+    "day_of_week": "수요일",
+    "start_time": "12:00",
+    "end_time": "12:50",
+    "lesson_type": "1:1 개인 레슨",
+    "instructor_id": "I002",
+    "capacity": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL039",
+    "day_of_week": "수요일",
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "lesson_type": "2:1 듀엣 레슨",
+    "instructor_id": "I003",
+    "capacity": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL069",
+    "day_of_week": "수요일",
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "lesson_type": "2:1 듀엣 레슨",
+    "instructor_id": "I001",
+    "capacity": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL046",
+    "day_of_week": "수요일",
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I004",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL025",
+    "day_of_week": "수요일",
+    "start_time": "16:00",
+    "end_time": "16:50",
+    "lesson_type": "1:1 개인 레슨",
+    "instructor_id": "I001",
+    "capacity": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL062",
+    "day_of_week": "수요일",
+    "start_time": "17:00",
+    "end_time": "17:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I005",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL002",
+    "day_of_week": "수요일",
+    "start_time": "18:00",
+    "end_time": "18:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I005",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL073",
+    "day_of_week": "수요일",
+    "start_time": "19:00",
+    "end_time": "19:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I005",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL078",
+    "day_of_week": "수요일",
+    "start_time": "20:00",
+    "end_time": "20:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I001",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL089",
+    "day_of_week": "수요일",
+    "start_time": "20:00",
+    "end_time": "20:50",
+    "lesson_type": "2:1 듀엣 레슨",
+    "instructor_id": "I008",
+    "capacity": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL040",
+    "day_of_week": "수요일",
+    "start_time": "21:00",
+    "end_time": "21:50",
+    "lesson_type": "1:1 개인 레슨",
+    "instructor_id": "I003",
+    "capacity": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL029",
+    "day_of_week": "수요일",
+    "start_time": "21:00",
+    "end_time": "21:50",
+    "lesson_type": "2:1 듀엣 레슨",
+    "instructor_id": "I008",
+    "capacity": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL094",
+    "day_of_week": "목요일",
+    "start_time": "08:00",
+    "end_time": "08:50",
+    "lesson_type": "2:1 듀엣 레슨",
+    "instructor_id": "I002",
+    "capacity": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL049",
+    "day_of_week": "목요일",
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "lesson_type": "2:1 듀엣 레슨",
+    "instructor_id": "I003",
+    "capacity": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL067",
+    "day_of_week": "목요일",
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I008",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL007",
+    "day_of_week": "목요일",
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I005",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL011",
+    "day_of_week": "목요일",
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I001",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL070",
+    "day_of_week": "목요일",
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "lesson_type": "1:1 개인 레슨",
+    "instructor_id": "I007",
+    "capacity": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL020",
+    "day_of_week": "목요일",
+    "start_time": "12:00",
+    "end_time": "12:50",
+    "lesson_type": "1:1 개인 레슨",
+    "instructor_id": "I002",
+    "capacity": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL022",
+    "day_of_week": "목요일",
+    "start_time": "12:00",
+    "end_time": "12:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I005",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL063",
+    "day_of_week": "목요일",
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I001",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL048",
+    "day_of_week": "목요일",
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I005",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL033",
+    "day_of_week": "목요일",
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I004",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL036",
+    "day_of_week": "목요일",
+    "start_time": "16:00",
+    "end_time": "16:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I001",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL028",
+    "day_of_week": "목요일",
+    "start_time": "16:00",
+    "end_time": "16:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I003",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL064",
+    "day_of_week": "목요일",
+    "start_time": "17:00",
+    "end_time": "17:50",
+    "lesson_type": "2:1 듀엣 레슨",
+    "instructor_id": "I001",
+    "capacity": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL052",
+    "day_of_week": "목요일",
+    "start_time": "18:00",
+    "end_time": "18:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I002",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL006",
+    "day_of_week": "목요일",
+    "start_time": "18:00",
+    "end_time": "18:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I005",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL061",
+    "day_of_week": "목요일",
+    "start_time": "19:00",
+    "end_time": "19:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I006",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL030",
+    "day_of_week": "목요일",
+    "start_time": "20:00",
+    "end_time": "20:50",
+    "lesson_type": "1:1 개인 레슨",
+    "instructor_id": "I002",
+    "capacity": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL042",
+    "day_of_week": "목요일",
+    "start_time": "20:00",
+    "end_time": "20:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I005",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL079",
+    "day_of_week": "목요일",
+    "start_time": "21:00",
+    "end_time": "21:50",
+    "lesson_type": "2:1 듀엣 레슨",
+    "instructor_id": "I003",
+    "capacity": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL018",
+    "day_of_week": "목요일",
+    "start_time": "21:00",
+    "end_time": "21:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I005",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL066",
+    "day_of_week": "금요일",
+    "start_time": "08:00",
+    "end_time": "08:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I005",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL038",
+    "day_of_week": "금요일",
+    "start_time": "08:00",
+    "end_time": "08:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I008",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL088",
+    "day_of_week": "금요일",
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I001",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL091",
+    "day_of_week": "금요일",
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I002",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL084",
+    "day_of_week": "금요일",
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "lesson_type": "2:1 듀엣 레슨",
+    "instructor_id": "I002",
+    "capacity": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL053",
+    "day_of_week": "금요일",
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I003",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL047",
+    "day_of_week": "금요일",
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I005",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL068",
+    "day_of_week": "금요일",
+    "start_time": "12:00",
+    "end_time": "12:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I001",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL074",
+    "day_of_week": "금요일",
+    "start_time": "12:00",
+    "end_time": "12:50",
+    "lesson_type": "2:1 듀엣 레슨",
+    "instructor_id": "I007",
+    "capacity": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL082",
+    "day_of_week": "금요일",
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I002",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL027",
+    "day_of_week": "금요일",
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I004",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL071",
+    "day_of_week": "금요일",
+    "start_time": "16:00",
+    "end_time": "16:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I001",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL060",
+    "day_of_week": "금요일",
+    "start_time": "17:00",
+    "end_time": "17:50",
+    "lesson_type": "1:1 개인 레슨",
+    "instructor_id": "I001",
+    "capacity": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL080",
+    "day_of_week": "금요일",
+    "start_time": "17:00",
+    "end_time": "17:50",
+    "lesson_type": "1:1 개인 레슨",
+    "instructor_id": "I003",
+    "capacity": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL009",
+    "day_of_week": "금요일",
+    "start_time": "18:00",
+    "end_time": "18:50",
+    "lesson_type": "2:1 듀엣 레슨",
+    "instructor_id": "I006",
+    "capacity": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL090",
+    "day_of_week": "금요일",
+    "start_time": "19:00",
+    "end_time": "19:50",
+    "lesson_type": "1:1 개인 레슨",
+    "instructor_id": "I007",
+    "capacity": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL037",
+    "day_of_week": "금요일",
+    "start_time": "20:00",
+    "end_time": "20:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I004",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL012",
+    "day_of_week": "금요일",
+    "start_time": "20:00",
+    "end_time": "20:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I008",
+    "capacity": 7,
+    "status": "ACTIVE"
+  },
+  {
+    "class_id": "CL098",
+    "day_of_week": "금요일",
+    "start_time": "21:00",
+    "end_time": "21:50",
+    "lesson_type": "7:1 레슨",
+    "instructor_id": "I001",
+    "capacity": 7,
+    "status": "ACTIVE"
+  }
+]
